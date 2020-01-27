@@ -1,0 +1,30 @@
+.home {
+  height: calc(100vh - 50px);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+.home__container {
+  width: 100%;
+  height: 80%;
+  max-width: 1200px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  pointer-events: none;
+  flex-direction: column;
+}
+
+.home__container h1 {
+  color: #fff;
+}
+
+.canvas-wrapper {
+  height: calc(100vh - 50px);
+  width: 100%;
+}

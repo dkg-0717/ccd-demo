@@ -1,0 +1,28 @@
+.graphic_ux {
+  width: 100%;
+  height: 300px;
+  /* border-bottom: 5px solid #fb5a2d; */
+}
+
+.image__container {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: white;
+}
+
+.description {
+  height: 100%;
+  width: 100%;
+  border-bottom: 5px solid #fb5a2d;
+}
+
+.description__container {
+  width: 100%;
+  height: 100%;
+}
+
+.c-disenoux {
+  margin-bottom: 6rem !important;
+}
